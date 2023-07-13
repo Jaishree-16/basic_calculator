@@ -1,0 +1,35 @@
+body
+{
+background:linear-gradient(lightgreen,lavender,lightsalmon,lightcyan);
+}
+h1{
+    background:lightcyan;
+    color:blue;
+    height:100px;
+    text-align:center;
+    padding-top:50px;
+}
+h3{
+    background:lavender;
+    height:100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div
+{
+background:lightcoral;
+height:55px;
+width:400px;
+margin:auto;
+text-align: center;
+font-size: xx-large;
+}
+p
+{
+text-align: center;
+color: darkviolet;
+padding-top: 25px;
+font-size: x-large;
+font-weight: bolder;
+}
